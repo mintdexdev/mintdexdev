@@ -7,12 +7,11 @@
 ## 👨‍💻 Technologies and Tools
 | Category            | Tools           |
 |---------------------|-----------------|
-| Languages           | ![javascript](icons/javascript.png)![html](icons/html.png)![css](icons/css.png)![cpp](icons/cpp.png)![python](icons/python.png) |
-| Frontend Development| ![reactjs](icons/reactjs.png)![tailwindcss](icons/tailwindcss.png)![nextjs](icons/nextjs.png)|
-| Database            | ![appwrite](icons/appwrite.png)![firebase](icons/firebase.png)![postgresql](icons/postgresql.png)|
-| Development tools   | ![git](icons/git.png)![github](icons/github.png)![nodejs](icons/nodejs.png)![docker](icons/docker.png)|
-| Design Tools        | ![figma](icons/figma.png)![framer](icons/framer.png)![photoshop](icons/photoshop.png)![illustrator](icons/illustrator.png)![blender](icons/blender.png)|
-<!-- ||```JavaScript```,```HTML```,```CSS```,```C++```,```Python```| -->
+| Languages           | ![](icons/javascript.png)![](icons/html.png)![](icons/css.png)![](icons/cpp.png)![](icons/python.png) <br/> ```JavaScript HTML, CSS, C++, Python```|
+| Frontend Development| ![](icons/reactjs.png)![](icons/tailwindcss.png)![](icons/nextjs.png) <br/> ```React, TailwindCss, NextJs``` |
+| Database            | ![](icons/appwrite.png)![](icons/firebase.png)![](icons/postgresql.png) <br/> ```Appwrite, Firebase, PostgresSQL```|
+| Development tools   | ![](icons/git.png)![](icons/github.png)![](icons/nodejs.png)![](icons/docker.png) <br/> ```Git, GitHub, NodeJs, Docker```|
+| Design Tools        | ![](icons/figma.png)![](icons/framer.png)![](icons/photoshop.png)![](icons/illustrator.png)![](icons/blender.png)|
 
 
 ## 📊 GitHub Stats:
