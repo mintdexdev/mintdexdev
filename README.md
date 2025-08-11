@@ -9,7 +9,7 @@
 |---------------------|-----------------|
 | Languages           | ![](icons/javascript.png)![](icons/html.png)![](icons/css.png)![](icons/cpp.png)![](icons/python.png) <br/> ```JavaScript HTML, CSS, C++, Python```|
 | Frontend Development| ![](icons/reactjs.png)![](icons/tailwindcss.png)![](icons/nextjs.png) <br/> ```React, TailwindCss, NextJs``` |
-| Database            | ![](icons/appwrite.png)![](icons/firebase.png)![](icons/postgresql.png) <br/> ```Appwrite, Firebase, PostgresSQL```|
+| Database            | ![](icons/appwrite.png)![](icons/firebase.png)![](icons/postgresql.png) ![](icons/mongodb.png) <br/> ```Appwrite, Firebase, PostgresSQL, MonogoDB```|
 | Development tools   | ![](icons/git.png)![](icons/github.png)![](icons/nodejs.png)![](icons/docker.png) <br/> ```Git, GitHub, NodeJs, Docker```|
 | Design Tools        | ![](icons/figma.png)![](icons/framer.png)![](icons/photoshop.png)![](icons/illustrator.png)![](icons/blender.png)|
 
