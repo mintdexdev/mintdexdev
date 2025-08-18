@@ -1,8 +1,13 @@
 <h1 align="center">Hi 👋, I'm Deepak Gobari</h1>
 <h2 align="center">Frontend Developer/Designer</h2>
 
-- [Codeforces Profile](https://codeforces.com/profile/dexz01)
 
+### Socials
+- [X Profile](https://x.com/mintdexdev)
+- [LinkedIn Profile](https://www.linkedin.com/in/mintdexdev/)
+
+### Code Fun
+- [Codeforces Profile](https://codeforces.com/profile/dexz01)
 
 ## 👨‍💻 Technologies and Tools
 | Category            | Tools           |
