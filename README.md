@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Deepak Gobari</h1>
 <h2 align="center">Frontend Developer/Designer</h2>
 
-
+### Currently Working on
+- [Lunarstore](https://github.com/mintdexdev/lunarstore)
+  - fullstack ecommerce with payment functionality- nextjs, tailwindcss, appwrite, 
 ### Socials
 - [X Profile](https://x.com/mintdexdev)
 - [LinkedIn Profile](https://www.linkedin.com/in/mintdexdev/)
