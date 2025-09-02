@@ -2,8 +2,17 @@
 <h2 align="center">Frontend Developer/Designer</h2>
 
 ### Currently Working on
+- [Portfolio](https://github.com/mintdexdev/portfolio)
+  - My portfolio- `React`, `Tailwindcss`, `GSAP`
 - [Lunarstore](https://github.com/mintdexdev/lunarstore)
-  - fullstack ecommerce with payment functionality- nextjs, tailwindcss, appwrite, 
+  - fullstack ecommerce with payment functionality- `Nextjs`, `Tailwindcss`
+
+### Currently Learning 
+- [Backend Basics](https://github.com/mintdexdev/learn_backend.git)
+  - `Node`, `Express`, `MongoDB`
+- [Backend focus project](https://github.com/mintdexdev/videotube-backend.git)
+  - backend functionality- `Node`, `Express`, `MongoDB`
+
 ### Socials
 - [X Profile](https://x.com/mintdexdev)
 - [LinkedIn Profile](https://www.linkedin.com/in/mintdexdev/)
