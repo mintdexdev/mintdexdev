@@ -1,5 +1,11 @@
-<h1 align="center">Hi 👋, I'm Deepak Gobari</h1>
-<h2 align="center">Frontend Developer/Designer</h2>
+<h1 >
+<div >Hi, I'm</div>
+<div >
+
+![](__svg/deepak-gobari.svg) </div>
+<div align="right">Frontend Developer/Designer</div>
+</h1>
+
 
 ### Currently Working on
 - [Portfolio](https://github.com/mintdexdev/portfolio)
