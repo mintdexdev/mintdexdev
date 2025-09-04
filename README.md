@@ -1,9 +1,9 @@
 <h1 >
-<div >Hi, I'm</div>
-<div >
+Hi, I'm
 
-![](__svg/deepak-gobari.svg) </div>
-<div align="right">Frontend Developer/Designer</div>
+<img src="__svg/deepak-gobari.svg" alt="deepak-gobari" style="max-width: 100%; margin: 0px;">
+
+ Frontend Developer/Designer
 </h1>
 
 
