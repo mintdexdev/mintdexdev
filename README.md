@@ -1,10 +1,11 @@
 <h1 >
 Hi, I'm
 
-<img src="__svg/deepak-gobari.svg" alt="deepak-gobari" style="max-width: 100%; margin: 0px;">
+<img src="__svg/deepak-gobari.svg" alt="deepak-gobari" style="max-width: 100%;">
 
- Frontend Developer/Designer
+<div align="right">Frontend Developer/Designer</div>
 </h1>
+
 
 
 ### Currently Working on
