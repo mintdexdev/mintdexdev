@@ -1,7 +1,7 @@
 <h1 >
 Hi, I'm
 
-<img src="__svg/deepak-gobari.svg" alt="deepak-gobari" style="max-width: 100%;">
+<img src="_assets/svg/deepak-gobari.svg" alt="deepak-gobari" style="max-width: 100%;">
 
 <div align="right">Frontend Developer/Designer</div>
 </h1>
@@ -30,11 +30,11 @@ Hi, I'm
 ## 👨‍💻 Technologies and Tools
 | Category            | Tools           |
 |---------------------|-----------------|
-| Languages           | ![](icons/javascript.png)![](icons/html.png)![](icons/css.png)![](icons/cpp.png)![](icons/python.png) <br/> `JavaScript, HTML, CSS, C++, Python`|
-| Frontend Development| ![](icons/reactjs.png)![](icons/tailwindcss.png)![](icons/nextjs.png) <br/> `React, TailwindCss, NextJs` |
-| Exposure            | ![](icons/firebase.png)![](icons/appwrite.png)  <br/> `Baas:` `Firebase, Appwrite`  <br/> ![](icons/postgresql.png) ![](icons/mongodb.png) <br/> `Database:` `PostgresSQL, MonogoDB`|
-| Development tools   | ![](icons/git.png)![](icons/github.png)![](icons/nodejs.png)![](icons/docker.png) <br/> `Git, GitHub, NodeJs, Docker`|
-| Design Tools        | ![](icons/figma.png) <br/> ` UI:` `Figma` <br/> ![](icons/webflow.png)![](icons/framer.png) <br/> `Prototype:` `Webflow, Framer` <br/>![](icons/photoshop.png) ![](icons/illustrator.png)![](icons/blender.png) <br/> `Design:` `Photoshop, Illustrator, Blender`|
+| Languages           | ![](_assets/png/javascript.png)![](_assets/png/html.png)![](_assets/png/css.png)![](_assets/png/cpp.png)![](_assets/png/python.png) <br/> `JavaScript, HTML, CSS, C++, Python`|
+| Frontend Development| ![](_assets/png/reactjs.png)![](_assets/png/tailwindcss.png)![](_assets/png/nextjs.png) <br/> `React, TailwindCss, NextJs` |
+| Exposure            | ![](_assets/png/firebase.png)![](_assets/png/appwrite.png)  <br/> `Baas:` `Firebase, Appwrite`  <br/> ![](_assets/png/postgresql.png) ![](_assets/png/mongodb.png) <br/> `Database:` `PostgresSQL, MonogoDB`|
+| Development tools   | ![](_assets/png/git.png)![](_assets/png/github.png)![](_assets/png/nodejs.png)![](_assets/png/docker.png) <br/> `Git, GitHub, NodeJs, Docker`|
+| Design Tools        | ![](_assets/png/figma.png) <br/> ` UI:` `Figma` <br/> ![](_assets/png/webflow.png)![](_assets/png/framer.png) <br/> `Prototype:` `Webflow, Framer` <br/>![](_assets/png/photoshop.png) ![](_assets/png/illustrator.png)![](_assets/png/blender.png) <br/> `Design:` `Photoshop, Illustrator, Blender`|
 
 
 ## 📊 GitHub Stats:
