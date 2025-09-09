@@ -3,16 +3,14 @@ Hi, I'm
 
 <img src="_assets/svg/deepak-gobari.svg" alt="deepak-gobari" style="max-width: 100%;">
 
-<div align="right">Frontend Developer/Designer</div>
+<div align="right">Frontend Developer & Designer</div>
 </h1>
 
 
 
 ### Currently Working on
-- [Portfolio](https://github.com/mintdexdev/portfolio)
-  - My portfolio- `React`, `Tailwindcss`, `GSAP`
-- [Lunarstore](https://github.com/mintdexdev/lunarstore)
-  - fullstack ecommerce with payment functionality- `Nextjs`, `Tailwindcss`
+ - [Lunarstore](https://github.com/mintdexdev/lunarstore)
+  - frontend of Ecommerce- `Nextjs`, `Tailwindcss`, `GSAP`, `Redux-toolkit`
 
 ### Currently Learning 
 - [Backend Basics](https://github.com/mintdexdev/learn_backend.git)
@@ -21,8 +19,9 @@ Hi, I'm
   - backend functionality- `Node`, `Express`, `MongoDB`
 
 ### Socials
+- [Website Portfolio](https:/mintdexdev/vercel.app)
 - [X Profile](https://x.com/mintdexdev)
-- [LinkedIn Profile](https://www.linkedin.com/in/mintdexdev/)
+- [LinkedIn Profile](https://www.linkedin.com/in/mintdexdev)
 
 ### Code Fun
 - [Codeforces Profile](https://codeforces.com/profile/dexz01)
