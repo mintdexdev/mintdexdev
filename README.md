@@ -30,9 +30,9 @@ Hi, I'm
 | Category            | Tools           |
 |---------------------|-----------------|
 | Frontend            | ![](_assets/png/reactjs.png)![](_assets/png/nextjs.png) ![](_assets/png/tailwindcss.png) <br/> `React, Next.js, Tailwind CSS` <br/> ![](_assets/png/javascript.png) ![](_assets/png/typescript.png)  ![](_assets/png/css.png) ![](_assets/png/html.png) <br/> `JavaScript, TypeScript, CSS, HTML` <br/> ![](_assets/png/threejs.png) ![](_assets/png/gsap.png) ![](_assets/png/motion.png)    <br/> `Three.js, GSAP, Motion`|
-| Development tools   | ![](_assets/png/git.png) ![](_assets/png/github.png) ![](_assets/png/docker.png) <br/> `Git, GitHub, Docker`|
+| Development tools   | ![](_assets/png/git.png) ![](_assets/png/github.png)  <br/> `Git, GitHub`|
 | Design Tools        | ![](_assets/png/figma.png) <br/> ` UI:` `Figma` <br/> ![](_assets/png/webflow.png) ![](_assets/png/framer.png) <br/> `Prototype:` `Webflow, Framer` <br/> ![](_assets/png/photoshop.png) ![](_assets/png/illustrator.png) ![](_assets/png/blender.png) <br/> `Design:` `Photoshop, Illustrator, Blender`|
-| Exposure Tech       | ![](_assets/png/nodejs.png) ![](_assets/png/firebase.png) ![](_assets/png/appwrite.png) <br/> `Node.js, Firebase, Appwrite` <br/> ![](_assets/png/postgresql.png) ![](_assets/png/mongodb.png) <br/> `PostgresSQL, MongoDB`<br/> ![](_assets/png/cpp.png) ![](_assets/png/python.png) <br/>  `C++, Python`|
+| Exposure Tech       | ![](_assets/png/nodejs.png) ![](_assets/png/firebase.png) ![](_assets/png/appwrite.png) <br/> `Node.js, Firebase, Appwrite` <br/> ![](_assets/png/postgresql.png) ![](_assets/png/mongodb.png) <br/> `PostgresSQL, MongoDB`<br/> ![](_assets/png/cpp.png) ![](_assets/png/python.png) <br/>  `C++, Python` <br/> ![](_assets/png/docker.png) <br/> `Docker`|
 
 
 ## 📊 GitHub Stats:
